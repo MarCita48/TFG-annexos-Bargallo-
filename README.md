@@ -12,7 +12,7 @@ El projecte compta amb diferents scripts desenvolupats en **Python**:
 * **Validació dels generadors (`.py`):** Script encarregat de verificar que els generadors de variables aleatòries utilitzats segueixen les distribucions teòriques de forma correcta.
 
 ### 2. Validació i Anàlisi del Simulador
-* **Validació del simulador (`.py`):** Codi que contrasta els resultats obtinguts pel simulador amb la resolució analítica del model teòric de referència M/M^k/1.
+* **Validació del simulador (`.py`):** Codi que contrasta els resultats obtinguts pel simulador amb la resolució analítica del model teòric de referència $M/M^k/1$.
 * **Aproximació de Powell (`.xlsx`):** Full de càlcul d'Excel utilitzat com a mètode d'optimització i validació del simulador a través de l'aproximació de Powell.
 * **Imatges i Taules de Resultats:** Gràfics i captures de les taules que recullen el comportament del sistema sota diferents escenaris i configuracions de càrrega.
 * **Resultats Complementaris (`.txt`):** Fitxer de text que recopila manualment les sortides directes de la terminal durant les diferents execucions del codi per facilitar-ne la traçabilitat.
